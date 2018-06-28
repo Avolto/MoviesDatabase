@@ -1,0 +1,17 @@
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\moviesdatabase.exe
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\moviesdatabase.pdb
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.csprojAssemblyReference.cache
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.Form1.resources
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.Properties.Resources.resources
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.csproj.GenerateResource.cache
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.csproj.CoreCompileInputs.cache
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.csproj.CopyComplete
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.exe
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\obj\Debug\moviesdatabase.pdb
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\VBMoviesFullData (1).mdf
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\VBMoviesFullData (1)_log.ldf
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\EntityFramework.dll
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\EntityFramework.xml
+C:\Users\takan\source\repos\moviesdatabase\moviesdatabase\bin\Debug\EntityFramework.SqlServer.xml
